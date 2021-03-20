@@ -1,0 +1,8 @@
+.block-one {
+  margin: 20px;
+}
+ 
+.block-two {
+  margin: 30px;
+}
+CSS auto keyword
